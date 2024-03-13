@@ -4,8 +4,6 @@ This project consists of graphics design including the cubes, textured robot and
 
 # Key Features
 
-## DirectX3D11
-
 DirectX3D11 is a collection of application programming interfaces for handling tasks related to multimedia, especially game programming and video, on Microsoft platforms. An example of application programming intefaces in this project is cubes, pyramid, teapot, cones, airplane and textured robot. 
 
 # How to Use the Project
